@@ -3,7 +3,7 @@
 # initscript, requires, cleanups, create as webapp?,
 
 Summary:	ChilliSpot - a Wireless LAN Access Point Controller
-Summary(pl.UTF-8):   ChilliSpot - kontroler punktu dostępowego (AP) lokalnej sieci bezprzewodowej
+Summary(pl.UTF-8):	ChilliSpot - kontroler punktu dostępowego (AP) lokalnej sieci bezprzewodowej
 Name:		chillispot
 Version:	1.1.0
 Release:	0.1
