@@ -3,7 +3,7 @@
 # initscript, requires, cleanups, create as webapp?,
 
 Summary:	ChilliSpot - a Wireless LAN Access Point Controller
-Summary(pl):	ChilliSpot - kontroler punktu dostêpowego (AP) lokalnej sieci bezprzewodowej
+Summary(pl.UTF-8):   ChilliSpot - kontroler punktu dostÄ™powego (AP) lokalnej sieci bezprzewodowej
 Name:		chillispot
 Version:	1.1.0
 Release:	0.1
@@ -28,14 +28,14 @@ standard for public HotSpots and it supports Wireless Protected Access
 Authorization and Accounting (AAA) is handled by your favorite radius
 server. Read more on <http://www.chillispot.org/>.
 
-%description -l pl
-ChilliSpot to maj±cy otwarte ¼ród³a ograniczony portal lub kontroler
-punktu dostêpowego (Access Point) bezprzewodowej sieci lokalnej.
-Obs³uguje logowanie oparte na WWW, bêd±ce obecnie standardem dla
-publicznych HotSpotów, oraz WPA (Wireless Protected Access), bêd±ce
-standardem przysz³o¶ci. Uwierzytelnianie, autoryzacja i rozliczanie
-(Authentication, Authorization, Accounting - AAA) s± obs³ugiwane przy
-u¿yciu wybranego serwera radius. Wiêcej mo¿na przeczytaæ pod
+%description -l pl.UTF-8
+ChilliSpot to majÄ…cy otwarte ÅºrÃ³dÅ‚a ograniczony portal lub kontroler
+punktu dostÄ™powego (Access Point) bezprzewodowej sieci lokalnej.
+ObsÅ‚uguje logowanie oparte na WWW, bÄ™dÄ…ce obecnie standardem dla
+publicznych HotSpotÃ³w, oraz WPA (Wireless Protected Access), bÄ™dÄ…ce
+standardem przyszÅ‚oÅ›ci. Uwierzytelnianie, autoryzacja i rozliczanie
+(Authentication, Authorization, Accounting - AAA) sÄ… obsÅ‚ugiwane przy
+uÅ¼yciu wybranego serwera radius. WiÄ™cej moÅ¼na przeczytaÄ‡ pod
 <http://www.chillispot.org/>.
 
 %prep
